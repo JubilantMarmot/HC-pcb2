@@ -1,2 +1,2 @@
-https://www.diodes.com/assets/Datasheets/AP2112.pdf
+https://www.diodes.com/assets/Datasheets/AP7361C.pdf
 https://www.ti.com/lit/ds/symlink/lm66200.pdf?ts=1723525071906
