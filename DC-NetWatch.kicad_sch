@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "afe77874-1c95-4a2b-8f0b-ec733f6390cb")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 106.68 39.37)
+		(size 31.75 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4cda5dd4-992d-471a-a199-4785eaf0be28")
+		(property "Sheetname" "SX1262 (LoRa)"
+			(at 106.68 38.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sx1262.kicad_sch"
+			(at 106.68 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DC-NetWatch"
+				(path "/afe77874-1c95-4a2b-8f0b-ec733f6390cb"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 25.4)
+		(size 53.34 34.29)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8814da0b-a83a-4936-91b3-95e8403ee8bc")
+		(property "Sheetname" "Power"
+			(at 31.75 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power2.kicad_sch"
+			(at 31.75 60.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DC-NetWatch"
+				(path "/afe77874-1c95-4a2b-8f0b-ec733f6390cb"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
